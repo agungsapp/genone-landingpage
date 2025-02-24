@@ -24,6 +24,9 @@ import QnASection from "./QnASection";
 import MapSection from "./MapSection";
 import LazyBlurredImage from "./LazyBlurredImage";
 
+
+
+
 const motorcycles = [
   {
     name: "BEAT DELUXE SMARTKEY",
